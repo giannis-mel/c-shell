@@ -1,0 +1,9 @@
+ls
+touch helloworld
+ls
+rm helloworld
+ls
+ps
+notavalidcommand
+author
+quit
